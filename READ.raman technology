@@ -1,0 +1,29 @@
+# Raman E-Commerce Website
+
+A starter template for an e-commerce website using React and Node.js/Express.
+
+## Structure
+
+- **backend/**: Express server and API
+- **frontend/**: React client
+
+## How to Start
+
+1. Install backend dependencies:
+    ```
+    cd backend
+    npm install
+    npm start
+    ```
+2. Install frontend dependencies:
+    ```
+    cd frontend
+    npm install
+    npm start
+    ```
+
+## Next Steps
+
+- Build API models (Product, User, Order) in `backend/models`
+- Create product listing page and shopping cart with React components
+- Integrate payment (Stripe, etc.)
